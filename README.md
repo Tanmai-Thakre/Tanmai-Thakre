@@ -1,11 +1,73 @@
+<a href="https://github.com/Tanmai-Thakre">
+  <img src="assets/tanmai-hero.svg" width="100%" alt="Thakre Tanmai — AI/ML Engineer, Reinforcement Learning Specialist, and Full-Stack Systems Developer. Engineering autonomous intelligence. Architecting resilient systems.">
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmai-thakre/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmaithakre@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmai-thakre/"><img src="https://img.shields.io/badge/LinkedIn-tanmai--thakre-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:tanmaithakre@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaithakre@gmail.com-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=gmail" alt="Email tanmaithakre@gmail.com"></a>
+  <a href="https://github.com/Tanmai-Thakre/LeetCode"><img src="https://img.shields.io/badge/LeetCode-Java_DSA-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=leetcode" alt="LeetCode Solutions in Java"></a>
+  <a href="https://github.com/Tanmai-Thakre"><img src="https://img.shields.io/badge/GitHub-Tanmai--Thakre-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=github" alt="GitHub profile"></a>
+  <a href="https://maps.google.com/?q=Ahmedabad,Gujarat,India"><img src="https://img.shields.io/badge/Location-Ahmedabad,_India-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=googlemaps" alt="Ahmedabad, India"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tanmai-Thakre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Tanmai-Thakre&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanmai-Thakre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Tanmai.">
+<img src="assets/about-intro.svg" width="100%" alt="About: AI/ML Engineer and Deep Reinforcement Learning Builder based in Ahmedabad, India. Primary focus in PyTorch Deep Q-Networks, Multi-Agent LLM Orchestration with IBM Granite 3, and high-performance APIs with FastAPI and Next.js.">
 
+<img src="assets/title-recognition.svg" width="100%" alt="02 Highlights — Proof, on the record.">
+<img src="assets/achievement-motif.svg" width="100%" alt="Highlights: KisanSetu AI Platform with 5 parallel deterministic agents and IBM Granite 3 8B; Deep Q-Network Reinforcement Learning Agent in PyTorch with Experience Replay Buffer; LeetCode DSA solved in Java; Full-stack containerized deployments with Next.js 15, FastAPI & Docker Compose.">
+
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Systems, not assignments.">
+
+<!-- Project 1: KisanSetu AI -->
+<a href="https://github.com/Tanmai-Thakre/Kisansetu-ai"><img src="assets/project-kisansetu.svg" width="100%" alt="KisanSetu AI: AI-Powered Market Linkage Platform for Cotton and Groundnut Farmers in Gujarat. 5 specialized deterministic AI agents running in parallel, synthesized by IBM Granite (watsonx.ai). Trilingual support (English, Gujarati, Hindi). FastAPI, Next.js 15, Docker Compose, PostgreSQL."></a>
+<p align="center">
+  <a href="https://github.com/Tanmai-Thakre/Kisansetu-ai"><img src="https://img.shields.io/badge/Repository-KisanSetu_AI-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00F5A0&logo=github" alt="KisanSetu AI repository"></a>
+  <a href="https://github.com/Tanmai-Thakre/Kisansetu-ai#readme"><img src="https://img.shields.io/badge/Architecture-Multi--Agent_watsonx-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00D9F6&logo=ibm" alt="IBM watsonx Architecture"></a>
+</p>
+
+<!-- Project 2: RL DQN Flappy Bird -->
+<a href="https://github.com/Tanmai-Thakre/RL_DQN_FlappyBird"><img src="assets/project-dqn-flappybird.svg" width="100%" alt="RL DQN Flappy Bird: Autonomous deep reinforcement learning agent learning obstacle navigation from raw reward states. Custom Deep Q-Network in PyTorch, Experience Replay Memory, Epsilon-greedy policy, and Bellman error convergence."></a>
+<p align="center">
+  <a href="https://github.com/Tanmai-Thakre/RL_DQN_FlappyBird"><img src="https://img.shields.io/badge/Repository-RL_DQN_FlappyBird-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00F5A0&logo=github" alt="RL DQN Flappy Bird repository"></a>
+  <a href="https://github.com/Tanmai-Thakre/RL_DQN_FlappyBird"><img src="https://img.shields.io/badge/Framework-PyTorch_Reinforcement_Learning-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00D9F6&logo=pytorch" alt="PyTorch Deep RL"></a>
+</p>
+
+<!-- Project 3: Intelligent Systems Suite -->
+<a href="https://github.com/Tanmai-Thakre/Minor_Projects"><img src="assets/project-ml-suite.svg" width="100%" alt="Intelligent Systems Suite: Comprehensive applied ML & deep learning implementations including Creditwise loan risk assessment, SmartCart customer segmentation with K-Means/PCA, CIFAR-10 CNN, and Sentiment Analysis RNN."></a>
+<p align="center">
+  <a href="https://github.com/Tanmai-Thakre/Minor_Projects"><img src="https://img.shields.io/badge/Repository-Applied_ML_Suite-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00F5A0&logo=github" alt="Applied ML Suite repository"></a>
+  <a href="https://github.com/Tanmai-Thakre/Minor_Projects"><img src="https://img.shields.io/badge/Models-CNN_%C2%B7_RNN_%C2%B7_Clustering-0A261D?style=for-the-badge&labelColor=080E11&logoColor=00D9F6&logo=scikitlearn" alt="Scikit-Learn & Deep Learning"></a>
+</p>
+
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="assets/tech-constellation.svg" width="100%" alt="Tech constellation. Languages: Python (Primary for ML/RL), Java (Primary for DSA), C, JavaScript, R. AI/ML/RL: Deep Q-Networks (DQN), PyTorch, TensorFlow, Scikit-Learn, Keras, IBM Granite / watsonx. Frontend: Next.js 15, React, TailwindCSS, Bootstrap, HTML5. Backend: FastAPI, Node.js, Express, Flask, Streamlit, REST APIs. Data & Infra: PostgreSQL, MongoDB, Docker, MySQL, MLflow. CS Core: DSA, OOP, System Design, Multithreading.">
+
+<img src="assets/title-commits.svg" width="100%" alt="05 Activity log — A year of building.">
+
+<img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating real public GitHub contributions over the past year, with totals, active days, longest streak and busiest day. Re-rendered daily.">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmai-Thakre&show_icons=true&hide_rank=true&hide_border=false&border_radius=16&bg_color=080E11&border_color=16333D&title_color=00F5A0&text_color=8DA8B2&icon_color=00D9F6&custom_title=GitHub%20at%20a%20glance" width="410" alt="GitHub stats for Tanmai-Thakre: stars, commits, pull requests and issues">
+  <img src="https://streak-stats.demolab.com/?user=Tanmai-Thakre&theme=dark&background=080E11&border=16333D&stroke=16333D&ring=00F5A0&fire=00F5A0&currStreakNum=F0FCF9&sideNums=8DA8B2&currStreakLabel=00D9F6&sideLabels=8DA8B2&dates=5B757F&border_radius=16" width="410" alt="GitHub streak stats for Tanmai-Thakre">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmai-Thakre&layout=compact&hide_border=false&border_radius=16&bg_color=080E11&border_color=16333D&title_color=00F5A0&text_color=8DA8B2&hide=jupyter%20notebook" width="350" alt="Top languages used by Tanmai-Thakre">
+</p>
+
+<img src="assets/title-certifications.svg" width="100%" alt="06 Competencies — Specializations and technical domains.">
+<img src="assets/certifications.svg" width="100%" alt="Competencies: IBM watsonx & Granite 3 Multi-Agent Systems; Deep Reinforcement Learning with PyTorch; Full-Stack Machine Learning Architecture with FastAPI, Next.js 15 & Docker; Algorithmic Problem Solving in Java.">
+
+<img src="assets/title-connect.svg" width="100%" alt="07 Connect — Let's build something extraordinary.">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanmai-thakre/"><img src="https://img.shields.io/badge/LinkedIn-tanmai--thakre-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="mailto:tanmaithakre@gmail.com"><img src="https://img.shields.io/badge/Email-tanmaithakre@gmail.com-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=gmail" alt="Email tanmaithakre@gmail.com"></a>
+  <a href="https://github.com/Tanmai-Thakre/LeetCode"><img src="https://img.shields.io/badge/LeetCode-Java_DSA-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=leetcode" alt="LeetCode Solutions in Java"></a>
+  <a href="https://github.com/Tanmai-Thakre"><img src="https://img.shields.io/badge/GitHub-Tanmai--Thakre-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=github" alt="GitHub profile"></a>
+  <a href="https://maps.google.com/?q=Ahmedabad,Gujarat,India"><img src="https://img.shields.io/badge/Location-Ahmedabad,_India-00A86B?style=for-the-badge&labelColor=080E11&logoColor=F0FCF9&logo=googlemaps" alt="Ahmedabad, India"></a>
+</p>
+
+<a href="https://github.com/Tanmai-Thakre">
+  <img src="assets/footer-signature.svg" width="100%" alt="Tanmai Thakre — Engineering autonomous intelligence. Architecting resilient systems.">
+</a>
