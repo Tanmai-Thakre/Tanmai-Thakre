@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Tanmai Thakre — Engineering autonomous intelligence. Architecting resilient systems.">
+  <defs>
+    <linearGradient id="sig-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#080E11"/><stop offset="1" stop-color="#0B171D"/>
+    </linearGradient>
+    <radialGradient id="sig-glow" cx="50%" cy="100%" r="70%">
+      <stop offset="0" stop-color="#00F5A0" stop-opacity=".2"/><stop offset="1" stop-color="#080E11" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sig-line" gradientUnits="userSpaceOnUse" x1="100" y1="0" x2="1100" y2="0">
+      <stop offset="0" stop-color="#00F5A0" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00D9F6"/>
+      <stop offset="1" stop-color="#00F5A0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    
+  .t-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+  .t-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+  .t-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+
+    .sig-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+    .sig-name {
+      stroke: #00F5A0; stroke-width: 1.2; fill: #F0FCF9; fill-opacity: 0;
+      stroke-dasharray: 900; stroke-dashoffset: 900;
+      animation: sig-write 3.6s cubic-bezier(.65,0,.35,1) .3s forwards;
+    }
+    .sig-rule { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: sig-draw 2.4s cubic-bezier(.65,0,.35,1) 1.6s forwards; }
+    .sig-in { animation: sig-in 1.4s ease 2.6s both; }
+    @keyframes sig-write { 70% { stroke-dashoffset: 0; fill-opacity: 0; } 100% { stroke-dashoffset: 0; fill-opacity: 1; } }
+    @keyframes sig-draw { to { stroke-dashoffset: 0; } }
+    @keyframes sig-in { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .sig-name { animation: none; stroke-dashoffset: 0; fill-opacity: 1; }
+      .sig-rule { animation: none; stroke-dashoffset: 0; }
+      .sig-in { animation: none; }
+      .sig-sparks { display: none; }
+    }
+  </style>
+
+  <rect width="1200" height="230" rx="20" fill="url(#sig-bg)"/>
+  <rect width="1200" height="230" rx="20" fill="url(#sig-glow)"/>
+
+  <!-- Rising Cyber Emerald Embers / Sparks -->
+  <g class="sig-sparks" fill="#00F5A0" opacity=".85">
+    <circle cx="451" cy="230" r="1.1"><animate attributeName="cy" values="232;100" dur="7s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="216" cy="230" r="1.6"><animate attributeName="cy" values="232;40" dur="5s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="5s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="716" cy="230" r="1.4"><animate attributeName="cy" values="232;60" dur="7s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cx="167" cy="230" r="1.3"><animate attributeName="cy" values="232;95" dur="6s" begin="0.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="915" cy="230" r="1.5"><animate attributeName="cy" values="232;70" dur="5.2s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="5.2s" begin="3s" repeatCount="indefinite"/></circle>
+    <circle cx="374" cy="230" r="1.2"><animate attributeName="cy" values="232;110" dur="6.5s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6.5s" begin="4s" repeatCount="indefinite"/></circle>
+    <circle cx="743" cy="230" r="1.5"><animate attributeName="cy" values="232;80" dur="7s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="275" cy="230" r="2.0"><animate attributeName="cy" values="232;45" dur="7.2s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7.2s" begin="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Handwriting-style Signature Text -->
+  <text class="sig-serif sig-name" x="600" y="104" text-anchor="middle" font-size="76" font-style="italic" font-weight="300" letter-spacing="-1">Tanmai Thakre</text>
+
+  <!-- Divider Line with Pulsing Center Spark -->
+  <path class="sig-rule" d="M100 134 H1100" stroke="url(#sig-line)" stroke-width="1.2"/>
+  <circle cx="600" cy="134" r="3" fill="#F0FCF9" class="sig-in">
+    <animate attributeName="r" values="3;5.5;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Tagline and Philosophy -->
+  <g class="sig-in">
+    <text class="sig-serif" x="600" y="176" text-anchor="middle" font-size="20" font-style="italic" fill="#F0FCF9">Engineering autonomous intelligence. Architecting resilient systems.</text>
+    <text class="t-mono" x="600" y="206" text-anchor="middle" font-size="11" letter-spacing="3" fill="#8DA8B2">EXPLORE · INNOVATE · OPTIMIZE</text>
+  </g>
+</svg>

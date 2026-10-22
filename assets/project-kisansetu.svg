@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img" aria-label="KisanSetu AI: Multi-Agent Agricultural Intelligence Platform">
+  <defs>
+    <linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080E11"/><stop offset="1" stop-color="#0C1920"/>
+    </linearGradient>
+    <radialGradient id="p1-glow" cx="80%" cy="30%" r="55%">
+      <stop offset="0" stop-color="#00F5A0" stop-opacity=".2"/><stop offset="1" stop-color="#080E11" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="p1-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00F5A0" stroke-opacity=".06"/>
+    </pattern>
+    <clipPath id="p1-clip"><rect width="1200" height="370" rx="18"/></clipPath>
+    <linearGradient id="p1-trace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0FCF9"/><stop offset=".45" stop-color="#00F5A0"/><stop offset="1" stop-color="#00D9F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    
+  .t-serif { font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif; }
+  .t-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+  .t-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+
+    .p1-in { animation: p1-fade 1s ease both; }
+    .p1-d1 { animation-delay: .15s; } .p1-d2 { animation-delay: .4s; }
+    .p1-chip { animation: p1-chip .7s cubic-bezier(.34,1.56,.64,1) both; }
+    @keyframes p1-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .p1-draw { stroke-dasharray: 600; stroke-dashoffset: 600; animation: p1-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards; }
+    @keyframes p1-fade { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes p1-draw { to { stroke-dashoffset: 0; } }
+    .p1-trace { stroke-dasharray: 564 3136; stroke-dashoffset: 3700; animation: p1-trace 7s linear infinite; }
+    @keyframes p1-trace { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .p1-in, .p1-chip { animation: none; } .p1-draw { animation: none; stroke-dashoffset: 0; } .p1-trace { display: none; } }
+  </style>
+  <g clip-path="url(#p1-clip)">
+    <rect width="1200" height="370" fill="url(#p1-bg)"/>
+    <rect x="700" width="500" height="370" fill="url(#p1-grid)"/>
+    <rect width="1200" height="370" fill="url(#p1-glow)"/>
+
+    <g class="p1-in p1-d1">
+      <text class="t-mono" x="56" y="62" font-size="12" letter-spacing="2.6" fill="#00D9F6">01 · MULTI-AGENT ARCHITECTURE · IBM GRANITE · FASTAPI · 2026</text>
+      <text class="t-serif" x="54" y="126" font-size="52" font-weight="300" letter-spacing="-1.5" fill="#F0FCF9">KisanSetu AI</text>
+      <text class="t-sans" x="56" y="166" font-size="17" fill="#8DA8B2">AI-powered market linkage &amp; intelligence platform for agricultural producers.</text>
+      <text class="t-mono" x="56" y="200" font-size="12.5" fill="#00F5A0"><tspan fill="#00D9F6">BUILT ›</tspan> 5 specialized deterministic agents, zero hallucination, trilingual (EN/GU/HI), Next.js 15 &amp; FastAPI</text>
+      <line class="p1-draw" x1="56" y1="226" x2="680" y2="226" stroke="#16333D" stroke-width="1.2"/>
+
+      <g transform="translate(56 266)">
+        <text class="t-serif" font-size="34" font-weight="300" fill="#F0FCF9">5 Agents</text>
+        <text class="t-sans" y="24" font-size="12.5" fill="#8DA8B2">Parallel deterministic routing</text>
+      </g>
+      <g transform="translate(261 266)">
+        <text class="t-serif" font-size="34" font-weight="300" fill="#F0FCF9">3 Languages</text>
+        <text class="t-sans" y="24" font-size="12.5" fill="#8DA8B2">English, Gujarati &amp; Hindi</text>
+      </g>
+      <g transform="translate(476 266)">
+        <text class="t-serif" font-size="34" font-weight="300" fill="#00F5A0">0%</text>
+        <text class="t-sans" y="24" font-size="12.5" fill="#8DA8B2">Hallucination guarantee</text>
+      </g>
+
+      <!-- Chips -->
+      <g class="p1-chip" style="animation-delay:1.0s"><rect x="56" y="314" width="76" height="26" rx="13" fill="#0C181E" stroke="#1B3D48"/><text class="t-mono" x="94" y="331" text-anchor="middle" font-size="11.5" fill="#00F5A0">FastAPI</text></g>
+      <g class="p1-chip" style="animation-delay:1.1s"><rect x="140" y="314" width="108" height="26" rx="13" fill="#0C181E" stroke="#1B3D48"/><text class="t-mono" x="194" y="331" text-anchor="middle" font-size="11.5" fill="#00D9F6">IBM Granite</text></g>
+      <g class="p1-chip" style="animation-delay:1.2s"><rect x="256" y="314" width="84" height="26" rx="13" fill="#0C181E" stroke="#1B3D48"/><text class="t-mono" x="298" y="331" text-anchor="middle" font-size="11.5" fill="#00F5A0">Next.js 15</text></g>
+      <g class="p1-chip" style="animation-delay:1.3s"><rect x="348" y="314" width="72" height="26" rx="13" fill="#0C181E" stroke="#1B3D48"/><text class="t-mono" x="384" y="331" text-anchor="middle" font-size="11.5" fill="#5EEAD4">Docker</text></g>
+      <g class="p1-chip" style="animation-delay:1.4s"><rect x="428" y="314" width="98" height="26" rx="13" fill="#0C181E" stroke="#1B3D48"/><text class="t-mono" x="477" y="331" text-anchor="middle" font-size="11.5" fill="#00D9F6">PostgreSQL</text></g>
+    </g>
+
+    <!-- Right Graphic: Multi-Agent Orchestrator Diagram (properly nested) -->
+    <g class="p1-in p1-d2">
+      <g transform="translate(930 185)">
+        <!-- Central IBM Granite Node -->
+        <circle cx="0" cy="0" r="42" fill="#0C1920" stroke="#00F5A0" stroke-width="1.8"/>
+        <circle cx="0" cy="0" r="32" fill="#0E232B" stroke="#00D9F6" stroke-width="1"/>
+        <text class="t-mono" x="0" y="-3" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#00F5A0">GRANITE</text>
+        <text class="t-mono" x="0" y="12" text-anchor="middle" font-size="9" fill="#8DA8B2">watsonx.ai</text>
+
+        <!-- 5 Peripheral Autonomous Agents -->
+        <!-- Agent 1: Price Discovery -->
+        <g transform="translate(-140 -60)">
+          <line x1="0" y1="0" x2="105" y2="45" stroke="#1B3D48" stroke-width="1.2"/>
+          <circle cx="0" cy="0" r="28" fill="#0C181E" stroke="#00F5A0" stroke-width="1.2"/>
+          <text class="t-mono" x="0" y="4" text-anchor="middle" font-size="9" fill="#F0FCF9">PRICING</text>
+        </g>
+        <!-- Agent 2: Buyer Match -->
+        <g transform="translate(-130 70)">
+          <line x1="0" y1="0" x2="95" y2="-50" stroke="#1B3D48" stroke-width="1.2"/>
+          <circle cx="0" cy="0" r="28" fill="#0C181E" stroke="#00D9F6" stroke-width="1.2"/>
+          <text class="t-mono" x="0" y="4" text-anchor="middle" font-size="9" fill="#F0FCF9">BUYERS</text>
+        </g>
+        <!-- Agent 3: Quality Assay -->
+        <g transform="translate(0 -120)">
+          <line x1="0" y1="0" x2="0" y2="78" stroke="#1B3D48" stroke-width="1.2"/>
+          <circle cx="0" cy="0" r="28" fill="#0C181E" stroke="#5EEAD4" stroke-width="1.2"/>
+          <text class="t-mono" x="0" y="4" text-anchor="middle" font-size="9" fill="#F0FCF9">QUALITY</text>
+        </g>
+        <!-- Agent 4: Storage Intel -->
+        <g transform="translate(130 -60)">
+          <line x1="0" y1="0" x2="-95" y2="45" stroke="#1B3D48" stroke-width="1.2"/>
+          <circle cx="0" cy="0" r="28" fill="#0C181E" stroke="#00F5A0" stroke-width="1.2"/>
+          <text class="t-mono" x="0" y="4" text-anchor="middle" font-size="9" fill="#F0FCF9">STORAGE</text>
+        </g>
+        <!-- Agent 5: Income Analytics -->
+        <g transform="translate(130 70)">
+          <line x1="0" y1="0" x2="-95" y2="-50" stroke="#1B3D48" stroke-width="1.2"/>
+          <circle cx="0" cy="0" r="28" fill="#0C181E" stroke="#00D9F6" stroke-width="1.2"/>
+          <text class="t-mono" x="0" y="4" text-anchor="middle" font-size="9" fill="#F0FCF9">INCOME</text>
+        </g>
+
+        <!-- Traveling Data Pulse into Central Core -->
+        <circle cx="-140" cy="-60" r="3.5" fill="#00F5A0">
+          <animate attributeName="cx" values="-140;0" dur="2.8s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="-60;0" dur="2.8s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="1;0" dur="2.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="130" cy="70" r="3.5" fill="#00D9F6">
+          <animate attributeName="cx" values="130;0" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+          <animate attributeName="cy" values="70;0" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+          <animate attributeName="opacity" values="1;0" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+        </circle>
+      </g>
+    </g>
+
+    <rect x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="#16333D" stroke-width="1"/>
+    <rect class="p1-trace" x=".5" y=".5" width="1199" height="369" rx="17.5" fill="none" stroke="url(#p1-trace)" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+</svg>
